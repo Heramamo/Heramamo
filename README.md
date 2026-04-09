@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heriniaina</h1>
+<!-- <h1 align="center">Hi 👋, I'm Heriniaina</h1>
 
 <p align="center">
   I am a JavaScript/TypeScript developer specializing in the MERN stack, building robust and modern web applications.
@@ -109,4 +109,4 @@
   </a>
 </p>
 -->
----
+--- -->
