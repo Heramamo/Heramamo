@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Heriniaina</h1>
+<h1 align="center">Hi 👋, I'm Heriniaina</h1>
 
 <p align="center">
   I am a JavaScript/TypeScript developer specializing in the MERN stack, building robust and modern web applications.
@@ -10,7 +10,7 @@
 <a href="https://gitroll.io/profile/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" alt="GitRoll Profile Badge"/></a>
 ---
 -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23121011.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23121011.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
+ -->
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -109,4 +109,4 @@
   </a>
 </p>
 -->
---- -->
+---
