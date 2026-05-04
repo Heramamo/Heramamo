@@ -59,7 +59,7 @@
 <h3 align="left">🏆 Contribution Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heriiniiaina&count_private=true&include_all_commits=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heramamo&count_private=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 
