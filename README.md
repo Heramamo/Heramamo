@@ -67,7 +67,7 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?username=Heriiniiaina&compact=true&show_icons=true&locale=en&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Heriiniiaina.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,php,batchfile&theme=vue-dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="Heriiniiaina's most used languages" /> 
+  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?username=Heramamo&compact=true&show_icons=true&locale=en&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Heriiniiaina.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,php,batchfile&theme=vue-dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="Heriiniiaina's most used languages" /> 
 <!--  <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />  -->
 </p>
 <!--
